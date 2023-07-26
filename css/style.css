@@ -1,0 +1,13 @@
+body {
+  width: 100%;
+  align-items: center;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1;
+  height: 100vh;
+}
+
+body::-webkit-scrollbar {
+  width: 0;
+  background-color: transparent;
+}
